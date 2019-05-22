@@ -1,0 +1,31 @@
+body{
+    text-align:center;   
+  background-image: url("");
+   background-attachment:fixed;
+    background-size: cover;
+ }
+
+.banner{
+    font-family: sans-serif;
+    }
+
+p{
+    font-family:sans-serif;}
+
+input{
+    font-family: sans-serif;
+    color:black;
+    font-size:12.5px;}
+
+
+
+img {
+ height:400px;   
+}
+
+.images{
+ margin-top:10px;   
+}
+input{
+    width:130px;
+}
